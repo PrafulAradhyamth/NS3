@@ -1,0 +1,2 @@
+This file contains ..._results.mat files that have been compile with the scripts in parent folder.
+Use "eval4presentation.m" or "eval4presentationComparison.m" to draw graphics for the respective scenario(s)

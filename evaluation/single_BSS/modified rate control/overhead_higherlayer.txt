@@ -1,0 +1,9 @@
+34 oct MPDU header
+4 oct delimiter
+14 oct MSDU header
+8 oct LLC header
+8 oct UDP header
+================
+68 oct
+
+According to TXTIME comparision, it is between 68 and 69 octets
